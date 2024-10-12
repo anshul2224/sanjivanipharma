@@ -350,6 +350,9 @@
             loading="lazy">
         </iframe>
     </div>
+    <a href="index.php">
+        <p>index</p>
+    </a>
 
     <!-- Footer -->
     <footer>
